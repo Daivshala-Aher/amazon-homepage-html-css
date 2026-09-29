@@ -1,1 +1,20 @@
+ Amazon Clone
+A simple Amazon homepage clone created using HTML and CSS.
 
+✨ Features
+- 🧭 Amazon-style navigation bar
+- 🔍 Search bar
+- 🛍️ Product sections
+- 🖼️ Product images
+- 📱 Responsive layout
+- 🔻 Footer section
+
+💻 Technologies Used
+- 🌐 HTML5
+- 🎨 CSS3
+
+🎯 Project Purpose
+This project was created to practice HTML and CSS and understand how to design a real-world e-commerce website layout.
+
+👩‍💻 Author
+Daivshala Aher
